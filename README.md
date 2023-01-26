@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego (Dido) Borges</h1>
 <h3 align="center">iOS dev student from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=borgesdido&label=Profile%20views&color=0e75b6&style=flat" alt="borgesdido" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=borgesdido" alt="borgesdido" /></a> </p>
-
 - 🌱 I’m currently learning **Swift and SwiftUI**
 
 - 📫 How to reach me **didoarorges@gmail.com**
@@ -24,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=borgesdido&show_icons=true&locale=en&layout=compact" alt="borgesdido" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=borgesdido&show_icons=true&locale=en" alt="borgesdido" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=borgesdido&" alt="borgesdido" /></p>
